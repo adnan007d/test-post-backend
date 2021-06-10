@@ -4,7 +4,7 @@
   "description": "backend for test-post",
   "main": "index.ts",
   "scripts": {
-    "start": "nodemon build/index.js",
+    "start": "tsc --project ./ && node build/index.js",
     "dev": "nodemon index.ts",
     "build": "tsc --project ./"
   },
