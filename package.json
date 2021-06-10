@@ -12,7 +12,8 @@
     "cors": "^2.8.5",
     "express": "4.17.1",
     "jwt-decode": "^3.1.2",
-    "mongoose": "^5.12.13"
+    "mongoose": "^5.12.13",
+    "tsc": "^2.0.3"
   },
   "devDependencies": {
     "@types/cors": "^2.8.10",
